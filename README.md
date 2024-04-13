@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is the official implementation of the paper "On the determination of path signature from its unitary development". The folder "Dev" is for the experiments on development-based models (RPCFD, OPCFD and PCFD[[1]](#1)). The folder "Sig MMDs" is for for the experiments on signature-based mmds[[2]](#2).
+This repository is the official implementation of the paper "On the determination of path signature from its unitary development". The folder "Dev" is for the experiments on development-based models (RPCFD, OPCFD and PCFD[[1]](#1)). The folder "Sig MMDs" is for the experiments on signature-based mmds[[2]](#2).
 
 
 ## Environment Setup
