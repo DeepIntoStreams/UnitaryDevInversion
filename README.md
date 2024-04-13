@@ -1,11 +1,17 @@
-# Determination of tensor from unitary development
+# On the determination of path signature from its unitary development
 
-This repository is the official implementation of the paper "Determination of tensor from unitary development". See the notebook "Section 4.1 - An Illustrative Example.ipynb" for the implementation of Section 4.1 in the paper, and the folder "Section 4.3 - Hypothesis Testing" is for Section 4.3 in the paper.
+## Introduction
+
+This repository is the official implementation of the paper "On the determination of path signature from its unitary development". The folder "Dev" is for the experiments on development-based models (RPCFD, OPCFD and PCFD[[1]](#1)). The folder "Sig MMDs" is for for the experiments on signature-based mmds[[2]](#2).
+
 
 ## Environment Setup
-The environment of the folder "Section 4.3 - Hypothesis Testing" can be set up by the following commands.
 
-```console
-conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
-pip install -r requirements.txt
-```
+
+
+## References
+<a id="1">[1]</a> 
+H. Lou, S. Li, and H. Ni, PCF-GAN: generating sequential data via the characteristic function of measures on the path space, *ArXiv preprint* (2023), ArXiv: 2305.12511; accepted by *NeurIPS 2023*.
+
+<a id="2">[2]</a> 
+I. Chevyrev and H. Oberhauser, Signature moments to characterize laws of stochastic processes, *J. Mach. Learning Res.* **23** (2002), 1--42.
