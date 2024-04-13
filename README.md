@@ -30,4 +30,4 @@ H. Lou, S. Li, and H. Ni, PCF-GAN: generating sequential data via the characteri
 I. Chevyrev and H. Oberhauser, Signature moments to characterize laws of stochastic processes, *J. Mach. Learning Res.* **23** (2002), 1--42.
 
 <a id="3">[3]</a> 
-C. Salvi, T. Cass, J. Foster, T. Lyons, and W. Yang, The Signature Kernel Is the Solution of a Goursat PDE, *SIAM J. Math. Data Sci.* **3** (2021), 873-899.
+C. Salvi, T. Cass, J. Foster, T. Lyons, and W. Yang, The Signature Kernel Is the Solution of a Goursat PDE, *SIAM J. Math. Data Sci.* **3** (2021), 873--899.
