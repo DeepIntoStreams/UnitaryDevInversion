@@ -14,7 +14,7 @@ conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=
 pip install -r requirements.txt
 ```
 
-The environment of the folder "Sig MMDs" can be set up by the following commands (our implementation relies on the library sigkernel[[3]](#3)).
+The environment of the folder "Sig MMDs" can be set up by the following commands (our implementation relies on the Python package sigkernel[[3]](#3)).
 
 ```console
 pip install iisignature
