@@ -7,7 +7,7 @@ This repository is the official implementation of the paper "On the determinatio
 
 ## Environment setup
 
-The environment of the folder "Dev" can be set up by the following commands.
+The repository can be run on Python 3.10. The environment of the folder "Dev" can be set up by the following commands.
 
 ```console
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
@@ -18,6 +18,7 @@ The environment of the folder "Sig MMDs" can be set up by the following commands
 
 ```console
 pip install iisignature
+pip install Cython
 pip install git+https://github.com/crispitagorico/sigkernel.git
 pip install -r requirements.txt
 ```
