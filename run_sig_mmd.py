@@ -41,9 +41,9 @@ if __name__ == "__main__":
             df = perm_test.permutation_test(linear_kernel.compute_mmd)
             print(df)
             df.to_csv(
-                f'numerical_results/repeat={i + 1}_h={h}_linear_kernel.csv')
+                f"numerical_results/repeat={i + 1}_h={h}_linear_kernel.csv")
 
             print("rbf kernel:")
             df = perm_test.permutation_test(rbf_kernel.compute_mmd)
             print(df)
-            df.to_csv(f'numerical_results/repeat={i + 1}_h={h}_rbf_kernel.csv')
+            df.to_csv(f"numerical_results/repeat={i + 1}_h={h}_rbf_kernel.csv")
