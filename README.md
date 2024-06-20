@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is the official implementation of the paper "On the determination of path signature from its unitary development". The file "run_distance.py" is for the experiments on development-based models, \emph{i.e.}, RPCFD, OPCFD and PCFD[[1]](#1). The file "run_sig_mmd.py" is for the experiments on signature-based mmds[[2]](#2).
+This repository is the official implementation of the paper "On the determination of path signature from its unitary development". The file "run_distance.py" is for the experiments on development-based models, i.e. RPCFD, OPCFD and PCFD[[1]](#1). The file "run_sig_mmd.py" is for the experiments on signature-based mmds[[2]](#2).
 
 
 ## Environment setup
