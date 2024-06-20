@@ -7,7 +7,7 @@ This repository is the official implementation of the paper "On the determinatio
 
 ## Environment setup
 
-The repository is run on Python 3.7.16, which can be set up by the following commands:
+The repository is run on Python 3.9.19, which can be set up by the following commands:
 
 ```console
 pip install -r requirements.txt
