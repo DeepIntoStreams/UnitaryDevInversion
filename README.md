@@ -14,7 +14,7 @@ pip install -r requirements.txt
 pip install git+https://github.com/crispitagorico/sigkernel.git
 ```
 
-Our implementation for Sig MMds relies on the Python package sigkernel[[3]](#3).
+Our implementation for signature-based mmds relies on the Python package sigkernel[[3]](#3).
 
 
 ## References
